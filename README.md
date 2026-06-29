@@ -2,7 +2,7 @@
 
 This sample was downloaded from vx-underground, and it was analyzed knowing it was part of the Cobalt Strike family. It’s a C2 beacon written in C for the Windows OS x86-64 architecture. It’s primary function is to repetitively reach out to it’s home server in an attempt to download further malware payloads. 
 
-![Exe Information](Screenshots/PE info.png)
+![Exe Information](Screenshots/PE_info.png)
 
 ## Basic Static Analysis
 
